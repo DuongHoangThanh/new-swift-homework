@@ -14,10 +14,10 @@
             filePath = "HomeWorkNew/Excercise1/exercise1.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "54"
-            endingLineNumber = "54"
-            landmarkName = "unknown"
-            landmarkType = "0">
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "exercise1()"
+            landmarkType = "9">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -30,9 +30,9 @@
             filePath = "HomeWorkNew/Excercise1/exercise1.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "20"
-            endingLineNumber = "20"
-            landmarkName = "reveredString(_:)"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "reverseString(_:)"
             landmarkType = "9">
          </BreakpointContent>
       </BreakpointProxy>
@@ -46,9 +46,9 @@
             filePath = "HomeWorkNew/Excercise1/exercise1.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "21"
-            endingLineNumber = "21"
-            landmarkName = "reveredString(_:)"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "reverseString(_:)"
             landmarkType = "9">
          </BreakpointContent>
       </BreakpointProxy>
@@ -62,9 +62,9 @@
             filePath = "HomeWorkNew/Excercise1/exercise1.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "22"
-            endingLineNumber = "22"
-            landmarkName = "reveredString(_:)"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "reverseString(_:)"
             landmarkType = "9">
          </BreakpointContent>
       </BreakpointProxy>
@@ -78,9 +78,9 @@
             filePath = "HomeWorkNew/Excercise1/exercise1.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "23"
-            endingLineNumber = "23"
-            landmarkName = "reveredString(_:)"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "reverseString(_:)"
             landmarkType = "9">
          </BreakpointContent>
       </BreakpointProxy>
@@ -94,9 +94,9 @@
             filePath = "HomeWorkNew/Excercise1/exercise1.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "26"
-            endingLineNumber = "26"
-            landmarkName = "reveredString(_:)"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "reverseString(_:)"
             landmarkType = "9">
          </BreakpointContent>
       </BreakpointProxy>
@@ -110,9 +110,9 @@
             filePath = "HomeWorkNew/Excercise1/exercise1.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "24"
-            endingLineNumber = "24"
-            landmarkName = "reveredString(_:)"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "reverseString(_:)"
             landmarkType = "9">
          </BreakpointContent>
       </BreakpointProxy>
@@ -126,9 +126,9 @@
             filePath = "HomeWorkNew/Excercise1/exercise1.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "36"
-            endingLineNumber = "36"
-            landmarkName = "getMidleValue(_:)"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "findMiddleValue(_:)"
             landmarkType = "9">
          </BreakpointContent>
       </BreakpointProxy>
@@ -142,9 +142,9 @@
             filePath = "HomeWorkNew/Excercise1/exercise1.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "37"
-            endingLineNumber = "37"
-            landmarkName = "getMidleValue(_:)"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "findMiddleValue(_:)"
             landmarkType = "9">
          </BreakpointContent>
       </BreakpointProxy>
@@ -158,9 +158,9 @@
             filePath = "HomeWorkNew/Excercise1/exercise1.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "38"
-            endingLineNumber = "38"
-            landmarkName = "getMidleValue(_:)"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "findMiddleValue(_:)"
             landmarkType = "9">
          </BreakpointContent>
       </BreakpointProxy>
@@ -174,9 +174,9 @@
             filePath = "HomeWorkNew/Excercise1/exercise1.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "39"
-            endingLineNumber = "39"
-            landmarkName = "getMidleValue(_:)"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "findMiddleValue(_:)"
             landmarkType = "9">
          </BreakpointContent>
       </BreakpointProxy>

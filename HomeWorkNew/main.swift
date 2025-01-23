@@ -8,4 +8,5 @@
 import Foundation
 
 
-exercise1()
+//exercise1()
+exercise2()
