@@ -29,6 +29,10 @@ struct Student {
     func averageGrade() -> Double {
         return grades.reduce(0.0, +) / Double(grades.count)
     }
+    
+    func isGraduated() -> Bool {
+        return averageGrade() >= 5
+    }
 }
 
 struct Circle {
@@ -60,7 +64,7 @@ func exercise3() {
     print(std.averageGrade())
     
     // 4:
-    var cirle = Circle(radius: 20)
+    let cirle = Circle(radius: 20)
     print(cirle.circumference())
     print(cirle.area())
     
