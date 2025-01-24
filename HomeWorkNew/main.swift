@@ -16,4 +16,6 @@ import Foundation
 //exercise4_3()
 //exercise4_4()
 //exercise4_5()
-exercise4_6()
+//exercise4_6()
+//exercise4_10()
+exercise4_12()
