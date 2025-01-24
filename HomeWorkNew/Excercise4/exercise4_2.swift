@@ -46,7 +46,7 @@ class Order {
 
 func exercise4_2() {
     
-    // 2
+    // 2:
     let p1 = Product(productID: "#P001", name: "Iphone 16", price: 1500, quantity: 10)
     let p2 = Product(productID: "#P002", name: "Macbook m4", price: 2500, quantity: 15)
     let p3 = Product(productID: "#P003", name: "Ipad mini", price: 1000, quantity: 5)
@@ -55,5 +55,4 @@ func exercise4_2() {
     print(o1.totalPrice())
     print(o1.checkValid())
     
-    // 3
 }
